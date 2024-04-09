@@ -1,7 +1,7 @@
 ### Oi, sou o Guilherme Borsoi 👋
 
-- 🔭 Atualmente quase um farmacêutico e estudando programação com o objetivo de entrar no mercado
-- 🌱 Estudando programação em JAVA
+- 🔭 Farmacêutico e atualmente atuando como desenvolvedor back-end com JAVA e Spring
+- 🌱 O perfil conta com meu portifólio de estudos e projetos pessoais
 - 💬 Contato por e-mail: borsoi.guilherme@gmail.com
 
 <div>
