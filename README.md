@@ -28,7 +28,6 @@ Também sou bacharelando em Ciência da Computação, sempre buscando aprofundar
 ### 📚 Repositórios em destaque
 
 - **PharmaCiclo** – Sistema para descarte consciente de medicamentos vencidos, alinhado com os ODS da ONU  
-- **Projetos de estudo** – Repositórios voltados à prática de conceitos como arquitetura limpa, design patterns e integrações com mensageria
 
 ---
 
